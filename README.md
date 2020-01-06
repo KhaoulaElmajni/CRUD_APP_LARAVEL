@@ -60,6 +60,9 @@ npm start
 :::success
 yeaaaah it's like that :white_check_mark: 
 :::
+![](https://i.imgur.com/80TRC0E.png)
+>Welcome form [color=#fd837b]
+
 ![](https://i.imgur.com/CQAqr5q.png)
 >Login form [color=#fd837b]
 
