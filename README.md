@@ -69,5 +69,13 @@ yeaaaah it's like that :white_check_mark:
 ![](https://i.imgur.com/0m47joy.jpg)
 >Adding,editing,updating tasks form [color=#fd837b]
 
+![](https://i.imgur.com/4Np6R0Q.png)
+>updating tasks form [color=#fd837b]
+
+* <strong style="color: dark ; opacity: 0.80">Finally we want say thank you to the one and only, our professor Mr BADDI YOUSSEF *Doctor Assistant in UCD* for his supporting  and encouraging to us, also for giving us this opportunity to improve our skills and to know new technologies as those giant ones that we worked on.
+
+*see also about* Mr [BADDI](https://ma.linkedin.com/in/youssefbaddi/fr)
+</strong>
+
 > Created by :[name=ELMAJNI KHAOULA IMANE LAHLOU]
 [time=sun,2020,01,04][color=#EF0101]
